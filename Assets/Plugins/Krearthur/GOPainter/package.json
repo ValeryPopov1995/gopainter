@@ -1,0 +1,6 @@
+{
+    "name": "com.krearthur.gopainter",
+    "displayName": "GO Painter",
+    "version": "1.5.1",
+    "description": "GO Painter is a tool for placing objects in the scene in an easy and intuitive way. The tool is designed to work like a painting program, but instead of pixels you paint with Game Objects. There are many shortcuts for a fast workflow and no extra GUIs. GOPainter is just a prefab that can be placed into the scene to start working. Update: From now on this tool is free and open source. I hope this way we can improve this together and create a nice tool for everyone."
+}
